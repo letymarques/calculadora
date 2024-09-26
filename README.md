@@ -1,4 +1,4 @@
-# calculadora
+# HidroGestor
 Bem-vindo à Calculadora de Uso de Água para Irrigação!
 A Calculadora de Uso de Água é uma ferramenta desenvolvida para ajudar agricultores a otimizar a irrigação de suas culturas. Em um mundo onde as mudanças climáticas e a escassez de água se tornam cada vez mais desafiadoras, o uso eficiente desse recurso é crucial.
 
